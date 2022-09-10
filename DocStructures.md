@@ -1,0 +1,3 @@
+- Developer to Developer - jsdoc
+- consumer - swagger
+- user manual - confluence
